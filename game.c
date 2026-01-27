@@ -92,3 +92,5 @@ int main() {
 
     return 0;
 }
+
+// Nível novato concluído com sucesso.
